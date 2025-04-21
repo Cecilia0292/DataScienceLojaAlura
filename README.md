@@ -1,7 +1,3 @@
-Ótima observação! Podemos incluir uma seção no README explicando como utilizar o projeto. Aqui está uma versão atualizada com essa informação:
-
----
-
 # 📊 Análise de Eficiência das Lojas - Alura Store
 
 ## 📌 Descrição do Projeto
